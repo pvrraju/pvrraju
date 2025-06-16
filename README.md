@@ -50,7 +50,7 @@ Here's a glimpse of what I've been working on.
 ## 📫 Get In Touch
 
 <!-- Update these with your actual links -->
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [your.email@example.com]
+- **LinkedIn:** [https://www.linkedin.com/in/pvrraju/]
+- **Email:** [pvrraju9996@gmail.com]
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about data! 
