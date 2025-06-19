@@ -8,8 +8,6 @@ My experience spans across the modern data stack, including cloud platforms like
 
 ### 🧰 Tech Stack
 
-### 🧰 Tech Stack
-
 <p align="left">
 
 <!-- Languages -->
@@ -17,16 +15,13 @@ My experience spans across the modern data stack, including cloud platforms like
   <img src="https://cdn.simpleicons.org/python/3670A0" width="36" height="36" alt="Python" />
 </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/r-project/276DC3" width="36" height="36" alt="R" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/typescript/007ACC" width="36" height="36" alt="TypeScript" />
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="36" height="36" alt="Java" />
 </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/go/00ADD8" width="36" height="36" alt="Go" />
@@ -42,10 +37,10 @@ My experience spans across the modern data stack, including cloud platforms like
 
 <!-- Cloud & Infra -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="36" height="36" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/aws/FF9900" width="36" height="36" alt="AWS" />
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0072C6" width="36" height="36" alt="Azure" />
+  <img src="https://cdn.simpleicons.org/azure/0072C6" width="36" height="36" alt="Azure" />
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" />
@@ -59,7 +54,7 @@ My experience spans across the modern data stack, including cloud platforms like
 
 <!-- Data & Streaming -->
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/apache-spark/FDEE21" width="36" height="36" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apachespark/FDEE21" width="36" height="36" alt="Apache Spark" />
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/apachekafka/000000" width="36" height="36" alt="Apache Kafka" />
@@ -104,7 +99,6 @@ My experience spans across the modern data stack, including cloud platforms like
 </a>
 
 </p>
-
 
 
 ---
