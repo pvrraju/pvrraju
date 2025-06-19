@@ -40,7 +40,7 @@ My experience spans across the modern data stack, including cloud platforms like
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/azure/0072C6" width="36" height="36" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" />
