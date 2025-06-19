@@ -86,7 +86,7 @@ My experience spans across the modern data stack, including cloud platforms like
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" />
 </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="36" height="36" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" />
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
