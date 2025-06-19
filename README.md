@@ -10,127 +10,95 @@ My experience spans across the modern data stack, including cloud platforms like
 
 <p align="left">
 
-<!-- ──────────────── Languages ──────────────── -->
-<a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<!-- Languages -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/python/3670A0" width="36" height="36" alt="Python" />
 </a>
-<a href="https://www.r-project.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" width="36" height="36" alt="R" />
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" />
 </a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/typescript/007ACC" width="36" height="36" alt="TypeScript" />
 </a>
-<a href="https://www.java.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://go.dev/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/go/00ADD8" width="36" height="36" alt="Go" />
 </a>
 
-<!-- ───────────── Web / API ───────────── -->
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
+<!-- Web & APIs -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/fastapi/005571" width="36" height="36" alt="FastAPI" />
 </a>
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />
 </a>
 
-<!-- ───────────── Cloud / DevOps ───────────── -->
-<a href="https://aws.amazon.com/">
+<!-- Cloud & Infra -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
 </a>
-<a href="https://azure.microsoft.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
 </a>
-<a href="https://cloud.google.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" />
 </a>
-<a href="https://vercel.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" width="36" height="36" alt="Vercel" />
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" />
 </a>
-<a href="https://www.heroku.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
-</a>
-
-<!-- ───────────── Data / Streaming ───────────── -->
-<a href="https://spark.apache.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apache-spark-colored.svg" width="36" height="36" alt="Apache Spark" />
-</a>
-<a href="https://kafka.apache.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apache-kafka-colored.svg" width="36" height="36" alt="Apache Kafka" />
-</a>
-<a href="https://developer.nvidia.com/cuda-zone">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cuda-colored.svg" width="36" height="36" alt="CUDA" />
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/heroku/430098" width="36" height="36" alt="Heroku" />
 </a>
 
-<!-- ───────────── Databases ───────────── -->
-<a href="https://www.postgresql.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+<!-- Data & Streaming -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachespark/FDEE21" width="36" height="36" alt="Apache Spark" />
 </a>
-<a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachekafka/000000" width="36" height="36" alt="Apache Kafka" />
 </a>
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="36" height="36" alt="PostgreSQL" />
 </a>
-<a href="https://neo4j.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neo4j-colored.svg" width="36" height="36" alt="Neo4j" />
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" />
 </a>
-<a href="https://www.microsoft.com/sql-server">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoftsqlserver-colored.svg" width="36" height="36" alt="SQL Server" />
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/mongodb/4EA94B" width="36" height="36" alt="MongoDB" />
 </a>
-<a href="https://redis.io/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" />
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/redis/DD0031" width="36" height="36" alt="Redis" />
 </a>
-<a href="https://www.sqlite.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" />
-</a>
-<a href="https://aws.amazon.com/dynamodb/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazondynamodb-colored.svg" width="36" height="36" alt="DynamoDB" />
-</a>
-<a href="https://firebase.google.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-</a>
-<a href="https://www.snowflake.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/snowflake-colored.svg" width="36" height="36" alt="Snowflake" />
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/sqlite/07405E" width="36" height="36" alt="SQLite" />
 </a>
 
-<!-- ───────────── ML & Analytics ───────────── -->
-<a href="https://pytorch.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
+<!-- ML & Visualization -->
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow" />
 </a>
-<a href="https://scikit-learn.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="scikit-learn" />
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch" />
 </a>
-<a href="https://numpy.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" />
 </a>
-<a href="https://pandas.pydata.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" />
-</a>
-<a href="https://plotly.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/plotly-colored.svg" width="36" height="36" alt="Plotly" />
-</a>
-<a href="https://www.scipy.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scipy-colored.svg" width="36" height="36" alt="SciPy" />
-</a>
-<a href="https://matplotlib.org/">
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" />
 </a>
-<a href="https://mlflow.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mlflow-colored.svg" width="36" height="36" alt="MLflow" />
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
 </a>
-
-<!-- ───────────── Computer Vision ───────────── -->
-<a href="https://opencv.org/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opencv-colored.svg" width="36" height="36" alt="OpenCV" />
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" />
+</a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="36" height="36" alt="Plotly" />
 </a>
 
 </p>
-
 
 
 ---
