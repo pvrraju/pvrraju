@@ -37,7 +37,7 @@ My experience spans across the modern data stack, including cloud platforms like
 
 <!-- Cloud & Infra -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/aws/FF9900" width="36" height="36" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="36" height="36" alt="AWS" />
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/azure/0072C6" width="36" height="36" alt="Azure" />
